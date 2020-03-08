@@ -1,0 +1,6 @@
+﻿  client.cpp
+d:\网络编程\实验1\时间服务器1\project1\client.cpp(38): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+d:\网络编程\实验1\时间服务器1\project1\client.cpp(49): warning C4101: “hostname”: 未引用的局部变量
+d:\网络编程\实验1\时间服务器1\project1\client.cpp(49): warning C4101: “sendBuf”: 未引用的局部变量
+  Project1.vcxproj -> D:\网络编程\实验1\时间服务器1\Project1\Debug\Project1.exe
